@@ -22,7 +22,7 @@
     border-radius: 50%;
     display: grid;
     place-items: center;
-    backgroud-color: #25273c;
+    background-color: #25273c;
   }
 
   .container-check-active {
