@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+  .icon-close {
+    width:.75rem;
+    height: .75rem;
+    background-image: url('/images/icon-cross.svg');
+    background-size: cover ;
+    margin-left:auto;
+  }
+
+  .icon-check {
+    background-image: linear-gradient( 120deg, hsl(192, 100%, 67%),hsl(280, 87%, 65%));
+  }
+
+  .container-check {
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    backgroud-color: #25273c;
+  }
+
+  .container-check-active {
+    background-image: linear-gradient( 120deg, hsl(192, 100%, 67%),hsl(280, 87%, 65%));
+  }
+}
