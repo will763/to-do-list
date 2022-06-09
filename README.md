@@ -10,8 +10,8 @@ So I created a rest api with Spring Boot for a to do list app, and then develope
 ### Screenshot 📸
 
 <div align='center' >
-<img src='https://user-images.githubusercontent.com/66382974/172746900-b801b36f-31ce-4f36-a010-07f70b1a9bd3.jpg' width="500" />
-<img src='https://user-images.githubusercontent.com/66382974/172746867-0d88027d-7b7d-4c77-bc66-dfc1f7041827.jpg' width="500" />
+<img src='https://user-images.githubusercontent.com/66382974/172746900-b801b36f-31ce-4f36-a010-07f70b1a9bd3.jpg' width="45%" />
+<img src='https://user-images.githubusercontent.com/66382974/172746867-0d88027d-7b7d-4c77-bc66-dfc1f7041827.jpg' width="45%" />
 </div>
   
 ### Built with 🏛️ 
